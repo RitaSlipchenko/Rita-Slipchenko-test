@@ -1,1 +1,1 @@
-This is dicription.
+This is decription.
